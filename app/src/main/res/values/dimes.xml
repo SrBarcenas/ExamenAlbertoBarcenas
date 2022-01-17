@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_buttom">20dp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+    <dimen name="margin_buttom_card">10dp</dimen>
+    <dimen name="margin_top_card">5dp</dimen>
+    <dimen name="height_card">250dp</dimen>
+    <dimen name="cardCornerRadius">8dp</dimen>
+
+</resources>
